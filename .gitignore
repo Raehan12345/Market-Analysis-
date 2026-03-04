@@ -1,0 +1,19 @@
+# virtual environment
+venv_market/
+env/
+
+# python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# jupyter notebooks
+.ipynb_checkpoints
+
+# data files
+data/raw/
+data/processed/
+*.csv
+*.h5
+*.parquet
+*.db
